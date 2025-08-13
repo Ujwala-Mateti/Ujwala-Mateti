@@ -18,12 +18,16 @@ Beyond numbers and algorithms, I believe in combining analytical thinking with c
 * 📰 Stock Sentiment Analysis : https://github.com/Ujwala-Mateti/Stock-Sentiment-Analysis-Using-News-Headlines
 * 🏥 Medical Inventory Optimization : https://github.com/Ujwala-Mateti/Medical-Inventory-Optimisation
 
+## 📜 Certification
+* Tata Forage – Data Analytics Virtual Experience Program
+(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_ZNouMEzG4vp4WaNct_1702543727134_completion_certificate.pdf)
+
 ## 🎯 Career Goals
 To leverage my analytical and statistical expertise to solve real-world business problems, contribute to data-driven decision-making, and grow into a Data Science & Analytics specialist.
 
-## Connect with Me  
-### LinkedIn : www.linkedin.com/in/ujwalamateti0501
-### Email : matetiujwala@gmail.com
+## 📫 Connect with Me  
+* LinkedIn : www.linkedin.com/in/ujwalamateti0501
+* Email : matetiujwala@gmail.com
 
 Thanks for visiting my profile! Feel free to explore my projects and connect with me for collaborations or opportunities. 
 
